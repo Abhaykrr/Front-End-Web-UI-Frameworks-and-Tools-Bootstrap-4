@@ -1,10 +1,6 @@
-.nonfooter{
-    margin: 10%;
-    margin-top: 0px;
-}
-
 .jumbotron{
     background-color: rgb(245, 126, 245);
+    margin-bottom: 0px;
 }
 
 .footer{
@@ -20,4 +16,8 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+
+#inline{
+    display: inline;
 }
